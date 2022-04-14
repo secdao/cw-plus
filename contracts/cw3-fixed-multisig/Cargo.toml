@@ -1,11 +1,11 @@
 [package]
-name = "cw3-fixed-multisig"
+name = "cw3-fixed-multisig-secdao"
 version = "0.13.2"
 authors = ["Ethan Frey <ethanfrey@users.noreply.github.com>"]
 edition = "2018"
 description = "Implementing cw3 with an fixed group multisig"
 license = "Apache-2.0"
-repository = "https://github.com/CosmWasm/cw-plus"
+repository = "https://github.com/secdao/cw-plus"
 homepage = "https://cosmwasm.com"
 documentation = "https://docs.cosmwasm.com"
 
